@@ -23,7 +23,7 @@ Here are a few things I like working on:
 ## 📫 Let's Connect!
 
 - [GitHub](https://github.com/prabesh340)
-- [LinkedIn](www.linkedin.com/in/prabesh-panta-2a449436a) 
+- [LinkedIn](https://www.linkedin.com/in/prabesh-panta-2a449436a/) 
 - [Email](mailto:prabeshpanta340@example.com) 
 
 ## 📈 GitHub Stats
