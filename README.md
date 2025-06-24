@@ -24,7 +24,7 @@ Here are a few things I like working on:
 
 - [GitHub](https://github.com/prabesh340)
 - [LinkedIn](https://www.linkedin.com/in/prabesh-panta-2a449436a/) 
-- [Email](mailto:prabeshpanta340@example.com) 
+- [Email](mailto:prabeshpanta340@gmail.com) 
 
 ## 📈 GitHub Stats
 
