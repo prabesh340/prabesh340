@@ -24,8 +24,20 @@ Here are a few things I like working on:
 
 - [GitHub](https://github.com/prabesh340)
 - [LinkedIn](https://www.linkedin.com/in/prabesh-panta-2a449436a/) 
-- [Email](mailto:prabeshpanta340@gmail.com) 
+- [Email](mailto:prabeshpanta340@gmail.com)
 
+## 🚀 Level of Experience
+
+| Skill     | Experience                                      |
+|-----------|------------------------------------------------|
+| React     | ![React](https://img.shields.io/badge/-90%25-61dafb?style=flat&logo=react&logoColor=black) `█████████░░ 90%` |
+| Next.js   | ![Next.js](https://img.shields.io/badge/-80%25-000000?style=flat&logo=next.js&logoColor=white) `████████░░ 80%` |
+| GSAP      | ![GSAP](https://img.shields.io/badge/-70%25-88ce02?style=flat&logo=greensock&logoColor=white) `███████░░░ 70%` |
+
+<!--
+You can adjust the percentages and the bar graphics to reflect your actual experience.
+You may also add or remove skills as needed!
+-->
 ## 📈 GitHub Stats
 
 ![Prabesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabesh340&show_icons=true&theme=radical)
