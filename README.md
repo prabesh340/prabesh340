@@ -30,9 +30,10 @@ Here are a few things I like working on:
 
 | Skill     | Experience                                      |
 |-----------|------------------------------------------------|
-| React     | ![React](https://img.shields.io/badge/-90%25-61dafb?style=flat&logo=react&logoColor=black) `█████████░░ 90%` |
+| React     | ![React](https://img.shields.io/badge/-75%25-61dafb?style=flat&logo=react&logoColor=black) `███████░░░ 75%` |
 | Next.js   | ![Next.js](https://img.shields.io/badge/-80%25-000000?style=flat&logo=next.js&logoColor=white) `████████░░ 80%` |
 | GSAP      | ![GSAP](https://img.shields.io/badge/-70%25-88ce02?style=flat&logo=greensock&logoColor=white) `███████░░░ 70%` |
+| Node.js   | ![Node.js](https://img.shields.io/badge/-50%25-339933?style=flat&logo=node.js&logoColor=white) `█████░░░░░ 50%` |
 
 <!--
 You can adjust the percentages and the bar graphics to reflect your actual experience.
