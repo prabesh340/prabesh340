@@ -30,6 +30,15 @@ Here are a few things I like working on:
 
 ![Prabesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabesh340&show_icons=true&theme=radical)
 
+## 🏆 Most Used Programming Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabesh340&layout=compact&theme=tokyonight)
+
+<!--
+This badge uses your GitHub username to display your most-used languages across your repositories.
+You can customize the theme or layout by changing the URL parameters.
+-->
+
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
