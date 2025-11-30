@@ -39,9 +39,6 @@ Here are a few things I like working on:
 You can adjust the percentages and the bar graphics to reflect your actual experience.
 You may also add or remove skills as needed!
 -->
-## 📈 GitHub Stats
-
-![Prabesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabesh340&show_icons=true&theme=radical)
 
 ## 🏆 Most Used Programming Languages
 
