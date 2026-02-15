@@ -55,8 +55,8 @@ const prabesh = {
 
 ```text
 React          ██████████████████░░  90%
-GSAP           █████████████████░░░  80%
-Next.js        ████████████████░░░░  85%
+GSAP           █████████████████░░░  85%
+Next.js        ████████████████░░░░  80%
 Tailwind CSS   ███████████████░░░░░  75%
 React Native   █████████████░░░░░░░  65%
 Node.js        ██████████░░░░░░░░░░  50%
@@ -111,17 +111,38 @@ Express        ██████████░░░░░░░░░░  50%
 
 ---
 
-## 📈 GitHub Statistics
+## 🏆 GitHub Activity
 
 <div align="center">
 
-![Prabesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabesh340&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117)
+### 📊 Contribution Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabesh340&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8)
+```text
+🔥 Total Commits         : 500+
+📦 Total Repositories    : 25+
+⭐ Stars Earned          : 50+
+🔀 Pull Requests         : 100+
+🎯 Active Projects       : 5+
+```
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=prabesh340&theme=tokyonight&hide_border=true&background=0D1117)
+### 💻 Coding Activity
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=prabesh340&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+<table>
+<tr>
+<td align="center">
+<strong>🌟 Most Used Languages</strong><br><br>
+JavaScript / TypeScript<br>
+HTML / CSS<br>
+React / Next.js
+</td>
+<td align="center">
+<strong>⚡ Current Streak</strong><br><br>
+Building projects daily<br>
+Learning something new<br>
+Pushing code regularly
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -132,7 +153,7 @@ Express        ██████████░░░░░░░░░░  50%
 ```yaml
 2026 Goals:
   - Master advanced Next.js patterns
-  - Build 10+ production-ready projects
+  - Build 30+ production-ready projects
   - Contribute to open-source
   - Deepen backend expertise
   - Launch a mobile app
