@@ -53,18 +53,15 @@ const prabesh = {
 
 ## 📊 Skill Proficiency
 
-<div align="center">
-
-| Technology | Proficiency | Level |
-|:----------:|:-----------:|:------|
-| **Next.js** | 80% | ![Progress](https://progress-bar.dev/80?title=&width=200&color=000000) |
-| **React** | 75% | ![Progress](https://progress-bar.dev/75?title=&width=200&color=61dafb) |
-| **GSAP** | 70% | ![Progress](https://progress-bar.dev/70?title=&width=200&color=88ce02) |
-| **Tailwind CSS** | 75% | ![Progress](https://progress-bar.dev/75?title=&width=200&color=38B2AC) |
-| **Node.js** | 50% | ![Progress](https://progress-bar.dev/50?title=&width=200&color=339933) |
-| **React Native** | 65% | ![Progress](https://progress-bar.dev/65?title=&width=200&color=61dafb) |
-
-</div>
+```text
+React          ██████████████████░░  90%
+GSAP           █████████████████░░░  80%
+Next.js        ████████████████░░░░  85%
+Tailwind CSS   ███████████████░░░░░  75%
+React Native   █████████████░░░░░░░  65%
+Node.js        ██████████░░░░░░░░░░  50%
+Express        ██████████░░░░░░░░░░  50%
+```
 
 ---
 
@@ -118,14 +115,13 @@ const prabesh = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prabesh340&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabesh340&layout=compact&langs_count=8&theme=tokyonight"/>
+![Prabesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabesh340&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabesh340&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8)
 
-<div align="center">
+![GitHub Streak](https://streak-stats.demolab.com/?user=prabesh340&theme=tokyonight&hide_border=true&background=0D1117)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabesh340&theme=tokyonight)](https://git.io/streak-stats)
+![Trophy](https://github-profile-trophy.vercel.app/?username=prabesh340&theme=tokyonight&no-frame=true&no-bg=true&column=7)
 
 </div>
 
@@ -165,11 +161,8 @@ const prabesh = {
 
 ### 🤝 Let's Connect and Build Something Amazing!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+<img src="https://komarev.com/ghpvc/?username=prabesh340&label=Profile%20views&color=0e75b6&style=flat" alt="prabesh340" />
 
 **⭐ From [prabesh340](https://github.com/prabesh340) with 💜**
-
-<img src="https://komarev.com/ghpvc/?username=prabesh340&label=Profile%20views&color=0e75b6&style=flat" alt="prabesh340" />
 
 </div>
